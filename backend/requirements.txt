@@ -35,7 +35,7 @@ fastapi==0.111.0
     # via -r requirements.in
 fastapi-cli==0.0.4
     # via fastapi
-h11==0.14.0
+h11==0.16.0
     # via
     #   httpcore
     #   uvicorn
